@@ -29,7 +29,7 @@ TensorFlow/Keras, using two classic datasets.
 
 ## Tech Stack
 Python, TensorFlow/Keras, scikit-learn, NumPy, Matplotlib, Jupyter
-```
+
 
 ## What I Learned
 - Differences between the Sequential, Functional, and Subclassing APIs
