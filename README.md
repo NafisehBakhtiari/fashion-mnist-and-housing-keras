@@ -29,14 +29,6 @@ TensorFlow/Keras, using two classic datasets.
 
 ## Tech Stack
 Python, TensorFlow/Keras, scikit-learn, NumPy, Matplotlib, Jupyter
-
-## How to Run
-
-```bash
-git clone https://github.com/YOUR-USERNAME/keras-deep-learning-fundamentals.git
-cd keras-deep-learning-fundamentals
-pip install -r requirements.txt
-jupyter notebook notebooks/deep_learning_project.ipynb
 ```
 
 ## What I Learned
